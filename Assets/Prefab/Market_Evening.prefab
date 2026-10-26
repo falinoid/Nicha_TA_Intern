@@ -577,7 +577,7 @@ GameObject:
   - component: {fileID: 7514846636317075949}
   - component: {fileID: 2224760634249666045}
   m_Layer: 0
-  m_Name: Freeform Light 2D
+  m_Name: BG Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -674,7 +674,7 @@ GameObject:
   - component: {fileID: 3508270888083797086}
   - component: {fileID: 377992743180636537}
   m_Layer: 0
-  m_Name: Freeform Light 2D (2)
+  m_Name: Ray Light1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -759,7 +759,7 @@ GameObject:
   - component: {fileID: 4543119216852629391}
   - component: {fileID: 3127521387672264525}
   m_Layer: 0
-  m_Name: Freeform Light 2D (1)
+  m_Name: Top Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1282,7 +1282,7 @@ GameObject:
   - component: {fileID: 7650376714860021748}
   - component: {fileID: 6776609548989519357}
   m_Layer: 0
-  m_Name: Freeform Light 2D (3)
+  m_Name: Front Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1535,7 +1535,7 @@ GameObject:
   - component: {fileID: 8029158748053254431}
   - component: {fileID: 7143121245939800738}
   m_Layer: 0
-  m_Name: Freeform Light 2D (4)
+  m_Name: Sky Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

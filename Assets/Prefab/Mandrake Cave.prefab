@@ -823,7 +823,7 @@ GameObject:
   - component: {fileID: 6037670744097384350}
   - component: {fileID: 8059290239935528277}
   m_Layer: 0
-  m_Name: Freeform Light 2D (7)
+  m_Name: Back Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1879,7 +1879,7 @@ GameObject:
   - component: {fileID: 2987325518694223414}
   - component: {fileID: 3618132472362365492}
   m_Layer: 0
-  m_Name: Freeform Light 2D (5)
+  m_Name: Ray Light2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4798,7 +4798,7 @@ GameObject:
   - component: {fileID: 3844951836166930040}
   - component: {fileID: 9162227212568684644}
   m_Layer: 0
-  m_Name: Freeform Light 2D (4)
+  m_Name: Ray Light1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7215,7 +7215,7 @@ GameObject:
   - component: {fileID: 7837710170918023728}
   - component: {fileID: 981487332015705923}
   m_Layer: 0
-  m_Name: Freeform Light 2D (1)
+  m_Name: Front Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10057,7 +10057,7 @@ GameObject:
   - component: {fileID: 7310788681400241898}
   - component: {fileID: 1538665060475001968}
   m_Layer: 0
-  m_Name: Freeform Light 2D (2)
+  m_Name: Building Ray Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10246,7 +10246,7 @@ GameObject:
   - component: {fileID: 5978926061982095846}
   - component: {fileID: 7568445988021266124}
   m_Layer: 0
-  m_Name: Freeform Light 2D (6)
+  m_Name: Ray Light4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10977,7 +10977,7 @@ GameObject:
   - component: {fileID: 1093470175550543925}
   - component: {fileID: 9119535661863697561}
   m_Layer: 0
-  m_Name: Freeform Light 2D (3)
+  m_Name: Ray Light3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
