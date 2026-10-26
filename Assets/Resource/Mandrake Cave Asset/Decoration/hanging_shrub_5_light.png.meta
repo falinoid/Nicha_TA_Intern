@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: fe70b7bc6222e604e95781e159c290ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4126062176807869117
+    second: hanging_shrub_5_light_0
+  - first:
+      213: 5149491611646193715
+    second: hanging_shrub_5_light_1
+  - first:
+      213: -3276988352293591781
+    second: hanging_shrub_5_light_2
+  - first:
+      213: 1700988261930265692
+    second: hanging_shrub_5_light_3
+  - first:
+      213: -3365156190868246116
+    second: hanging_shrub_5_light_4
+  - first:
+      213: 6683873127698599849
+    second: hanging_shrub_5_light_5
+  - first:
+      213: 2602358927664492426
+    second: hanging_shrub_5_light_6
+  - first:
+      213: -2572621728177693007
+    second: hanging_shrub_5_light_7
+  - first:
+      213: 677035258866877473
+    second: hanging_shrub_5_light_8
+  - first:
+      213: 9172114724149361752
+    second: hanging_shrub_5_light_9
+  - first:
+      213: -1946323365226536607
+    second: hanging_shrub_5_light_10
+  - first:
+      213: 3576127071097581649
+    second: hanging_shrub_5_light_11
+  - first:
+      213: -7991087844885548741
+    second: hanging_shrub_5_light_12
+  - first:
+      213: -7702243837378938222
+    second: hanging_shrub_5_light_13
+  - first:
+      213: 5557170541737168526
+    second: hanging_shrub_5_light_14
+  - first:
+      213: -2668565159352720645
+    second: hanging_shrub_5_light_15
+  - first:
+      213: 684011729888469257
+    second: hanging_shrub_5_light_16
+  - first:
+      213: 7921035762446126332
+    second: hanging_shrub_5_light_17
+  - first:
+      213: 1311639240777920602
+    second: hanging_shrub_5_light_18
+  - first:
+      213: -5357895485112812097
+    second: hanging_shrub_5_light_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_0
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 622
+        width: 113
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345213e9f484db6c0800000000000000
+      internalID: -4126062176807869117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 664
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330760e665ba67740800000000000000
+      internalID: 5149491611646193715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 568
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15a270b47cc582d0800000000000000
+      internalID: -3276988352293591781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 500
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c667fdfcf1b9710800000000000000
+      internalID: 1700988261930265692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 550
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91779516409c41d0800000000000000
+      internalID: -3365156190868246116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 496
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af014c6233e1cc50800000000000000
+      internalID: 6683873127698599849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 517
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f228528af6d1420800000000000000
+      internalID: 2602358927664492426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 349
+        width: 70
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be54862b263c4cd0800000000000000
+      internalID: -2572621728177693007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 388
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124cc291bff456900800000000000000
+      internalID: 677035258866877473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 361
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c7d04eeb5e94f70800000000000000
+      internalID: 9172114724149361752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 279
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16121ad16354df4e0800000000000000
+      internalID: -1946323365226536607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 294
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150fd60cf94f0a130800000000000000
+      internalID: 3576127071097581649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 218
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b7a491f3f91190800000000000000
+      internalID: -7991087844885548741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 233
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a3693c9022c1590800000000000000
+      internalID: -7702243837378938222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 212
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e42802a290f1d40800000000000000
+      internalID: 5557170541737168526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 206
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf22cc0502a57fad0800000000000000
+      internalID: -2668565159352720645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 151
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901e3365b091e7900800000000000000
+      internalID: 684011729888469257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 174
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc44c9fe0c2ded60800000000000000
+      internalID: 7921035762446126332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 160
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f70ca0f0e33210800000000000000
+      internalID: 1311639240777920602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanging_shrub_5_light_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 116
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd7e22917ee4a5b0800000000000000
+      internalID: -5357895485112812097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hanging_shrub_5_light_0: -4126062176807869117
+      hanging_shrub_5_light_1: 5149491611646193715
+      hanging_shrub_5_light_10: -1946323365226536607
+      hanging_shrub_5_light_11: 3576127071097581649
+      hanging_shrub_5_light_12: -7991087844885548741
+      hanging_shrub_5_light_13: -7702243837378938222
+      hanging_shrub_5_light_14: 5557170541737168526
+      hanging_shrub_5_light_15: -2668565159352720645
+      hanging_shrub_5_light_16: 684011729888469257
+      hanging_shrub_5_light_17: 7921035762446126332
+      hanging_shrub_5_light_18: 1311639240777920602
+      hanging_shrub_5_light_19: -5357895485112812097
+      hanging_shrub_5_light_2: -3276988352293591781
+      hanging_shrub_5_light_3: 1700988261930265692
+      hanging_shrub_5_light_4: -3365156190868246116
+      hanging_shrub_5_light_5: 6683873127698599849
+      hanging_shrub_5_light_6: 2602358927664492426
+      hanging_shrub_5_light_7: -2572621728177693007
+      hanging_shrub_5_light_8: 677035258866877473
+      hanging_shrub_5_light_9: 9172114724149361752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

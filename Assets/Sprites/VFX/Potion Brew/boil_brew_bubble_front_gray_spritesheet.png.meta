@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: bf8e0e0c2d0d4d74097cee4e8236b9e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1110385019095977103
+    second: boil_brew_bubble_front_gray_spritesheet_0
+  - first:
+      213: -8961444617022850373
+    second: boil_brew_bubble_front_gray_spritesheet_1
+  - first:
+      213: 318165711281458804
+    second: boil_brew_bubble_front_gray_spritesheet_2
+  - first:
+      213: 5260571192039647378
+    second: boil_brew_bubble_front_gray_spritesheet_3
+  - first:
+      213: 3988096721809824912
+    second: boil_brew_bubble_front_gray_spritesheet_4
+  - first:
+      213: 4061154297475338803
+    second: boil_brew_bubble_front_gray_spritesheet_5
+  - first:
+      213: 6626287587672187332
+    second: boil_brew_bubble_front_gray_spritesheet_6
+  - first:
+      213: -1071467381683273545
+    second: boil_brew_bubble_front_gray_spritesheet_7
+  - first:
+      213: -1978814073621661642
+    second: boil_brew_bubble_front_gray_spritesheet_8
+  - first:
+      213: -5674404807005263412
+    second: boil_brew_bubble_front_gray_spritesheet_9
+  - first:
+      213: 3058847677842252814
+    second: boil_brew_bubble_front_gray_spritesheet_10
+  - first:
+      213: 1369434976615715330
+    second: boil_brew_bubble_front_gray_spritesheet_11
+  - first:
+      213: -4200175718818639489
+    second: boil_brew_bubble_front_gray_spritesheet_12
+  - first:
+      213: -7188642260354162532
+    second: boil_brew_bubble_front_gray_spritesheet_13
+  - first:
+      213: 5741252277374080460
+    second: boil_brew_bubble_front_gray_spritesheet_14
+  - first:
+      213: 2776265644119214351
+    second: boil_brew_bubble_front_gray_spritesheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boil_brew_bubble_front_gray_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 516
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1737edc45be1790f0800000000000000
+      internalID: -1110385019095977103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boil_brew_bubble_front_gray_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1032
+        width: 516
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba3400c99d82a380800000000000000
+      internalID: -8961444617022850373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boil_brew_bubble_front_gray_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1032
+        width: 516
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e04a8570a5a6400800000000000000
+      internalID: 318165711281458804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boil_brew_bubble_front_gray_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 516
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2982d21a0ad410940800000000000000
+      internalID: 5260571192039647378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boil_brew_bubble_front_gray_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 516
+        width: 516
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cdf51b6d0985730800000000000000
+      internalID: 3988096721809824912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boil_brew_bubble_front_gray_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 516
+        width: 516
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332911f015e1c5830800000000000000
+      internalID: 4061154297475338803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boil_brew_bubble_front_gray_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 516
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1e7c2147d45fb50800000000000000
+      internalID: 6626287587672187332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boil_brew_bubble_front_gray_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 516
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0c95ed7126121f0800000000000000
+      internalID: -1071467381683273545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boil_brew_bubble_front_gray_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 516
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638bc319517d984e0800000000000000
+      internalID: -1978814073621661642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9588706641b1e2f4fbf0c062cc3b09fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":516.0,"y":516.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      boil_brew_bubble_front_gray_spritesheet_0: -1110385019095977103
+      boil_brew_bubble_front_gray_spritesheet_1: -8961444617022850373
+      boil_brew_bubble_front_gray_spritesheet_2: 318165711281458804
+      boil_brew_bubble_front_gray_spritesheet_3: 5260571192039647378
+      boil_brew_bubble_front_gray_spritesheet_4: 3988096721809824912
+      boil_brew_bubble_front_gray_spritesheet_5: 4061154297475338803
+      boil_brew_bubble_front_gray_spritesheet_6: 6626287587672187332
+      boil_brew_bubble_front_gray_spritesheet_7: -1071467381683273545
+      boil_brew_bubble_front_gray_spritesheet_8: -1978814073621661642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

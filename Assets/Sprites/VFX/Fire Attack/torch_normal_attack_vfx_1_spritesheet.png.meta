@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: ea940f5e7181d57409c166f6decf311e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 173723847944437035
+    second: torch_normal_attack_vfx_1_spritesheet_0
+  - first:
+      213: 6548049588237547710
+    second: torch_normal_attack_vfx_1_spritesheet_1
+  - first:
+      213: -1340299397984357147
+    second: torch_normal_attack_vfx_1_spritesheet_2
+  - first:
+      213: -7604186364539672865
+    second: torch_normal_attack_vfx_1_spritesheet_3
+  - first:
+      213: -858023616028922155
+    second: torch_normal_attack_vfx_1_spritesheet_4
+  - first:
+      213: -6413353499911024310
+    second: torch_normal_attack_vfx_1_spritesheet_5
+  - first:
+      213: 1126930720479424764
+    second: torch_normal_attack_vfx_1_spritesheet_6
+  - first:
+      213: 7597656034360924462
+    second: torch_normal_attack_vfx_1_spritesheet_7
+  - first:
+      213: 2116909248791974628
+    second: torch_normal_attack_vfx_1_spritesheet_8
+  - first:
+      213: -9165113698889649826
+    second: torch_normal_attack_vfx_1_spritesheet_9
+  - first:
+      213: 8652694856283379297
+    second: torch_normal_attack_vfx_1_spritesheet_10
+  - first:
+      213: 6974065363748904702
+    second: torch_normal_attack_vfx_1_spritesheet_11
+  - first:
+      213: 7133551128631865480
+    second: torch_normal_attack_vfx_1_spritesheet_12
+  - first:
+      213: 6666017057479119288
+    second: torch_normal_attack_vfx_1_spritesheet_13
+  - first:
+      213: 6736853265357540653
+    second: torch_normal_attack_vfx_1_spritesheet_14
+  - first:
+      213: -4957323724063092596
+    second: torch_normal_attack_vfx_1_spritesheet_15
+  - first:
+      213: 5379095867892899246
+    second: torch_normal_attack_vfx_1_spritesheet_16
+  - first:
+      213: 3575787732140357399
+    second: torch_normal_attack_vfx_1_spritesheet_17
+  - first:
+      213: 4203825638043145418
+    second: torch_normal_attack_vfx_1_spritesheet_18
+  - first:
+      213: 3602025628222209620
+    second: torch_normal_attack_vfx_1_spritesheet_19
+  - first:
+      213: -8664495208312870835
+    second: torch_normal_attack_vfx_1_spritesheet_20
+  - first:
+      213: -959733192486391040
+    second: torch_normal_attack_vfx_1_spritesheet_21
+  - first:
+      213: -8194821014903611190
+    second: torch_normal_attack_vfx_1_spritesheet_22
+  - first:
+      213: 7217445323842133127
+    second: torch_normal_attack_vfx_1_spritesheet_23
+  - first:
+      213: -7460558239515882758
+    second: torch_normal_attack_vfx_1_spritesheet_24
+  - first:
+      213: 5992659765772459972
+    second: torch_normal_attack_vfx_1_spritesheet_25
+  - first:
+      213: 4265668871853692084
+    second: torch_normal_attack_vfx_1_spritesheet_26
+  - first:
+      213: 5957448377826098615
+    second: torch_normal_attack_vfx_1_spritesheet_27
+  - first:
+      213: 7928557917203996670
+    second: torch_normal_attack_vfx_1_spritesheet_28
+  - first:
+      213: 768161880533801336
+    second: torch_normal_attack_vfx_1_spritesheet_29
+  - first:
+      213: 654034504186612486
+    second: torch_normal_attack_vfx_1_spritesheet_30
+  - first:
+      213: 2551693460422655665
+    second: torch_normal_attack_vfx_1_spritesheet_31
+  - first:
+      213: -5031832015319683917
+    second: torch_normal_attack_vfx_1_spritesheet_32
+  - first:
+      213: 976796928783071699
+    second: torch_normal_attack_vfx_1_spritesheet_33
+  - first:
+      213: -2499388846062768378
+    second: torch_normal_attack_vfx_1_spritesheet_34
+  - first:
+      213: -6961713219928795305
+    second: torch_normal_attack_vfx_1_spritesheet_35
+  - first:
+      213: -2269116312423622968
+    second: torch_normal_attack_vfx_1_spritesheet_36
+  - first:
+      213: -3592685994137367421
+    second: torch_normal_attack_vfx_1_spritesheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dfdb55be0396200800000000000000
+      internalID: 173723847944437035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2400
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ba8e48685fda50800000000000000
+      internalID: 6548049588237547710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4f87a7ccc466de0800000000000000
+      internalID: -1340299397984357147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2400
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd66eb74ac0887690800000000000000
+      internalID: -7604186364539672865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de23b53110b714f0800000000000000
+      internalID: -858023616028922155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a419bc2a8f03ff6a0800000000000000
+      internalID: -6413353499911024310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0b6a00589a3af00800000000000000
+      internalID: 1126930720479424764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1600
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e299fadb8eb407960800000000000000
+      internalID: 7597656034360924462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e21cf3feb5c06d10800000000000000
+      internalID: 2116909248791974628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51bd9356a9fec080800000000000000
+      internalID: -9165113698889649826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 800
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166de9ab02c841870800000000000000
+      internalID: 8652694856283379297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 800
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efedb968f7bd8c060800000000000000
+      internalID: 6974065363748904702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8807031d4f67ff260800000000000000
+      internalID: 7133551128631865480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1dcb91233728c50800000000000000
+      internalID: 6666017057479119288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_normal_attack_vfx_1_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d0199f95c1e7d50800000000000000
+      internalID: 6736853265357540653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 792dce68a7a6bb942abf5ab5aa93299e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":1000.0,"y":800.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      torch_normal_attack_vfx_1_spritesheet_0: 173723847944437035
+      torch_normal_attack_vfx_1_spritesheet_1: 6548049588237547710
+      torch_normal_attack_vfx_1_spritesheet_10: 8652694856283379297
+      torch_normal_attack_vfx_1_spritesheet_11: 6974065363748904702
+      torch_normal_attack_vfx_1_spritesheet_12: 7133551128631865480
+      torch_normal_attack_vfx_1_spritesheet_13: 6666017057479119288
+      torch_normal_attack_vfx_1_spritesheet_14: 6736853265357540653
+      torch_normal_attack_vfx_1_spritesheet_2: -1340299397984357147
+      torch_normal_attack_vfx_1_spritesheet_3: -7604186364539672865
+      torch_normal_attack_vfx_1_spritesheet_4: -858023616028922155
+      torch_normal_attack_vfx_1_spritesheet_5: -6413353499911024310
+      torch_normal_attack_vfx_1_spritesheet_6: 1126930720479424764
+      torch_normal_attack_vfx_1_spritesheet_7: 7597656034360924462
+      torch_normal_attack_vfx_1_spritesheet_8: 2116909248791974628
+      torch_normal_attack_vfx_1_spritesheet_9: -9165113698889649826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

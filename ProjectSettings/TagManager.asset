@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - FxTemporaire
+  - TAZOFX
+  - UICamera
+  - Wall
+  - Inventory
+  - Crasher
+  - Mud
+  - EnemyMovementArea
+  - Enemy
+  - Path
+  - RewardNode
+  - Blackhole
+  - ReflectAttack
+  - Manager
+  - CanvasWorld
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - InvisibleWall
+  - Water
+  - UI
+  - Platform
+  - ExcludePostProcess
+  - Climbable
+  - BG 0
+  - BG 1
+  - World  Object Ignore Entity
+  - Ground Layer Ignore Entity
+  - MinigameInteract
+  - Ground Layer
+  - Loot
+  - Monster
+  - Hitbox
+  - Player Hitbox
+  - Monster Hurtbox
+  - Player Hurtbox
+  - Damaging
+  - World Object
+  - Foreground
+  - NPC
+  - Placeable
+  - PlacedItem
+  - PlantPot
+  - PlayerInteraction
+  - Collectible
+  - Entity
+  - Blur
+  m_SortingLayers:
+  - name: sky1
+    uniqueID: 1190384867
+    locked: 0
+  - name: effectSky1
+    uniqueID: 3700004343
+    locked: 0
+  - name: sky0
+    uniqueID: 44889621
+    locked: 0
+  - name: effectSky0
+    uniqueID: 1268736441
+    locked: 0
+  - name: back1
+    uniqueID: 2743093355
+    locked: 0
+  - name: effectBack1
+    uniqueID: 1324230959
+    locked: 0
+  - name: back0
+    uniqueID: 39367291
+    locked: 0
+  - name: effectBack0
+    uniqueID: 4126309953
+    locked: 0
+  - name: mid1
+    uniqueID: 574481739
+    locked: 0
+  - name: effectMid1
+    uniqueID: 3689451469
+    locked: 0
+  - name: mid0
+    uniqueID: 3440515181
+    locked: 0
+  - name: effectMid0
+    uniqueID: 3096328955
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: front0
+    uniqueID: 3766401053
+    locked: 0
+  - name: effectBackOtherEntities
+    uniqueID: 3245209691
+    locked: 0
+  - name: otherEntities
+    uniqueID: 1358454515
+    locked: 0
+  - name: effectFrontOtherEntities
+    uniqueID: 134089123
+    locked: 0
+  - name: front1
+    uniqueID: 3318058895
+    locked: 0
+  - name: effectBackPlayer
+    uniqueID: 61131085
+    locked: 0
+  - name: player
+    uniqueID: 3174616387
+    locked: 0
+  - name: effectFrontPlayer
+    uniqueID: 2214401075
+    locked: 0
+  - name: water
+    uniqueID: 1341607885
+    locked: 0
+  - name: UIWorldSpace
+    uniqueID: 2627734811
+    locked: 0
+  - name: effectFront2
+    uniqueID: 2732022871
+    locked: 0
+  - name: front2
+    uniqueID: 2440018885
+    locked: 0
+  - name: effectFront3
+    uniqueID: 1026053991
+    locked: 0
+  - name: front3
+    uniqueID: 840058877
+    locked: 0
+  - name: effectForeground0
+    uniqueID: 1446315149
+    locked: 0
+  - name: foreground0
+    uniqueID: 1274666719
+    locked: 0
+  - name: effectForeground1
+    uniqueID: 3229579341
+    locked: 0
+  - name: foreground1
+    uniqueID: 2002574037
+    locked: 0
+  - name: effectForeground2
+    uniqueID: 538614205
+    locked: 0
+  - name: Top
+    uniqueID: 2376656467
+    locked: 0
+  - name: foreground2
+    uniqueID: 1869119327
+    locked: 0
+  - name: UI
+    uniqueID: 877140881
+    locked: 0
+  - name: effectUI
+    uniqueID: 3054713363
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
